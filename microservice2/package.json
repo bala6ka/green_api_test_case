@@ -1,0 +1,10 @@
+{
+  "name": "microservice-m2",
+  "version": "1.0.0",
+  "main": "microservice-m2.js",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
